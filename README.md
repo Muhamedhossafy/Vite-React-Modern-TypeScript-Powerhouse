@@ -165,10 +165,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Project Maintainer - [Your Name](mailto:your.email@example.com)
+Project Maintainer - [Muhamad Ammar](mailto:muhamedammar0900@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤︎ by <a href="https://github.com/yourusername">Your Name</a></sub>
+  <sub>Built with ❤︎ by <a href="https://github.com/myhamedhossafy">Muhamed Ammar</a></sub>
 </div>
