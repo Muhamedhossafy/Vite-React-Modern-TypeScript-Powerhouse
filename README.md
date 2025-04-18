@@ -170,5 +170,5 @@ Project Maintainer - [Muhamad Ammar](mailto:muhamedammar0900@gmail.com)
 ---
 
 <div align="center">
-  <sub>Built with ❤︎ by <a href="https://github.com/myhamedhossafy">Muhamed Ammar</a></sub>
+  <sub>Built with ❤︎ by <a href="https://github.com/muhamedhossafy">Muhamed Ammar</a></sub>
 </div>
