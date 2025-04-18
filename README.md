@@ -164,8 +164,8 @@ This will generate optimized assets in the `dist/` folder ready for deployment t
 Distributed under the MIT License. See `LICENSE` for more information.
 
 📬 **Contact**:  
-- ✉️ **Email**: [contact@example.com](mailto:contact@example.com)  
-- 🔗 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)  
 
 ---
 
